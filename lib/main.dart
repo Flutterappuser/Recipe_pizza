@@ -20,7 +20,7 @@ class Recipes extends StatelessWidget {
       title: 'Recipe-Calculator',
       // 5
       theme: theme.copyWith(
-        primaryColor: Colors.grey,
+        primaryColor: Colors.blueAccent,
 
         colorScheme: theme.colorScheme.copyWith(
 
